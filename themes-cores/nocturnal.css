@@ -3413,5 +3413,12 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
     background-color: var(--backgroundColor01);
 }
 
-.icon_e986d9{color: var(--mainColor);}
-.content_b56bbc{background-color: var(--backgroundColor01);}
+.icon_e986d9{
+	color: var(--mainColor);
+}
+.content_b56bbc{
+	background-color: var(--backgroundColor01);
+}
+.scroller_ff90b2{
+    background-color: var(--backgroundColor02);
+}
