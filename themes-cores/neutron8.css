@@ -2828,7 +2828,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
     background-color: rgba(1, 1, 1, 0.5);
     border: 1px solid transparent;
 }
-.input__0f084 {
+.input_f8bc55 {
     background-color: transparent;
     border: 0px;
 }
@@ -3416,4 +3416,12 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
     opacity: 1;
     margin-left: 0;
     transition: .5s all ease-out;
+}
+
+/* Category Names back to original color */
+.icon_a08117, .mainContent_a08117>.container_a5ad5c, .children_a08117{
+    color: var(--themeColor1) !important;
+}
+.addButtonIcon_a08117:hover, .mainContent_a08117>.container_a5ad5c:hover, .children_a08117:hover{
+    color: var(--themeColor2) !important;
 }
