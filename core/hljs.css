@@ -29,6 +29,10 @@
   background: var(--backgroundCode) !important;
 }
 
+.markup_f8f345 code {
+  padding-top: 20px;
+}
+
 .textContainer_d8e2d0 {
   overflow: hidden;
 }
